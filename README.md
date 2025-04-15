@@ -1,4 +1,8 @@
-## Hi there 👋
+## Murilo Buratini da Silva
+- 📚 Aluno do curso de Bacharelado em Matemática Aplicada e Computacional na Universidade de São Paulo (USP). Por agora, estou cursando o terceiro semestre.
+- 🧑‍💻 Atualmente, atuo como estagiário em Análise de Risco de Crédito atuando com Ciência de Dados no Banco Santander. Comecei o estágio em junho de 2024, me interessando muito pela área e querendo construir uma carreira focada em Ciência de Dados.
+- 📝 Tenho funções de manipulação de base de dados, aplicação de técnicas de machine learning, geração de relatórios de acompanhamento e apoio aos analistas da área.
+- 💻 Experiência com Python, SQL, PySpark, Excel e Databricks.
 
 <!--
 **MuriloBuratini/MuriloBuratini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
